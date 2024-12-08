@@ -1,0 +1,13 @@
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\bin\Debug\ProjetHopital.exe.config
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\bin\Debug\ProjetHopital.exe
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\bin\Debug\ProjetHopital.pdb
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.csprojResolveAssemblyReference.cache
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.connexion.resources
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.Properties.Resources.resources
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.csproj.GenerateResource.Cache
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.exe
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.pdb
+C:\Users\REDDY RN\Desktop\MES COURS\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.menu.resources
+C:\Users\REDDY RN\Desktop\MES COURS\L1 INFORMATIQUE\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\bin\Debug\ProjetHopital.exe.config
+C:\Users\REDDY RN\Desktop\MES COURS\L1 INFORMATIQUE\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.exe
+C:\Users\REDDY RN\Desktop\MES COURS\L1 INFORMATIQUE\Second semestre\PROJET TUTORE\ProjetHopital\ProjetHopital\obj\Debug\ProjetHopital.pdb
