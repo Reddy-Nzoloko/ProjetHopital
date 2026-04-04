@@ -6,3 +6,4 @@ create triggers before insert
 create treads 
 perdre une finale 
 semaib 
+semaine sainte 
