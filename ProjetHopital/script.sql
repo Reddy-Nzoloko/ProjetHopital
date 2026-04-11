@@ -8,3 +8,4 @@ perdre une finale
 semaib 
 semaine sainte 
 niga 
+demi mot suffzur t
