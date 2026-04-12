@@ -9,3 +9,4 @@ semaib
 semaine sainte 
 niga 
 demi mot suffzur t
+mode maranfa 
