@@ -6,3 +6,4 @@ create triggers before insert
 create treads 
 print: day of the match 
 statut active true 
+truncate table admin 
