@@ -8,3 +8,4 @@ print: day of the match
 statut active true 
 truncate table admin 
 delete table football 
+truncute databases 
