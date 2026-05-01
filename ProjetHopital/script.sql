@@ -9,3 +9,4 @@ statut active true
 truncate table admin 
 delete table football 
 truncute databases 
+insert into table salongo(nom, time) values('Courant', 01-05-2026)
