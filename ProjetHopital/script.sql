@@ -10,3 +10,4 @@ truncate table admin
 delete table football 
 truncute databases 
 insert into table salongo(nom, time) values('Courant', 01-05-2026)
+update table salongo set id= 1 
