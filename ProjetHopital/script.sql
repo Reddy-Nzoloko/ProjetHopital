@@ -13,3 +13,4 @@ insert into table salongo(nom, time) values('Courant', 01-05-2026)
 update table salongo set id= 1 
 delete cascade companie where id = 12
 id int primary key 
+references table agent 
