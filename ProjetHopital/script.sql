@@ -14,3 +14,4 @@ update table salongo set id= 1
 delete cascade companie where id = 12
 id int primary key 
 references table agent 
+create table stage if not exist 
