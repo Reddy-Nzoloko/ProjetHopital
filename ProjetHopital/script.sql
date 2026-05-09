@@ -15,3 +15,4 @@ delete cascade companie where id = 12
 id int primary key 
 references table agent 
 create table stage if not exist 
+alter table stage add collumn fete nafine samedi 1 
