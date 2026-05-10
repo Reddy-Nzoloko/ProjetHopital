@@ -16,3 +16,4 @@ id int primary key
 references table agent 
 create table stage if not exist 
 alter table stage add collumn fete nafine samedi 1 
+alter table stage add collmn dimanche sans eglise 
