@@ -17,4 +17,5 @@ references table agent
 create table stage if not exist 
 alter table stage add collumn fete nafine samedi 1 
 alter table stage add collmn dimanche sans eglise 
+alter table stage add collumn mardi stage begin
 alter table stage add collumn commencement stage 
