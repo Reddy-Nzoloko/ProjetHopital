@@ -20,3 +20,4 @@ alter table stage add collmn dimanche sans eglise
 alter table stage add collumn mardi stage begin
 alter table stage add collumn commencement stage 
 alter table stage add collumn eden technologie 
+alter table stage add collum premier terrain 
