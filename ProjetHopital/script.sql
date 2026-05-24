@@ -23,3 +23,4 @@ alter table stage add collumn eden technologie
 alter table stage add collum premier terrain 
 alter table stage add column premiere messe ICGv
 trancute table Rkrn 
+git add git commit -m salongo 
