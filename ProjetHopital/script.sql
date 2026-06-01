@@ -25,3 +25,4 @@ alter table stage add column premiere messe ICGv
 trancute table Rkrn 
 git add git commit -m salongo 
 psg fait le back to back 
+cadexo config 
