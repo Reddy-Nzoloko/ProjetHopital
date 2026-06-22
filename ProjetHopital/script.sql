@@ -1,4 +1,4 @@
-satan un autre day salon leopart forztt is daybrupture sans systeme exploitation create database hopital 
+longue day satan un autre day salon leopart forztt is daybrupture sans systeme exploitation create database hopital 
 create table hopital; 
 create database hopital client; 
 create view selections donnee 
@@ -29,3 +29,4 @@ cadexo config
 jour de greve 
 boa 
 jour de la rupture 
+approvisionnement cable Rj45
