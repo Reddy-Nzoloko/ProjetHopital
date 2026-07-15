@@ -29,6 +29,7 @@ psg fait le back to back
 cadexo config 
 jour de greve 
 boa 
+poa the vich Buh
 full stack 
 jour de la rupture 
 approvisionnement cable Rj45
