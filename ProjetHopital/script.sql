@@ -11,6 +11,7 @@ delete table football
 truncute databases 
 le 28 
 delete fafa
+delete all photn phahzh 
 insert into table salongo(nom, time) values('Courant', 01-05-2026)
 update table salongo set id= 1 
 delete cascade companie where id = 12
