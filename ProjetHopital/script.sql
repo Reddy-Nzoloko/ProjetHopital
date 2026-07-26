@@ -4,6 +4,7 @@ create database hopital client;
 create view selections donnee 
 create triggers before insert 
 create treads 
+create statut 
 print: day of the match 
 statut active true 
 truncate table admin 
