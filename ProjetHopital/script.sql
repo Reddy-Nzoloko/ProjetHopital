@@ -10,6 +10,7 @@ statut active true
 truncate table admin 
 delete table football 
 truncute databases 
+mane 
 le 28 
 delete fafa
 delete all photn phahzh 
