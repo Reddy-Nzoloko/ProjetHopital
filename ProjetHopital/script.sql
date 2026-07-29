@@ -11,6 +11,7 @@ truncate table admin
 delete table football 
 truncute databases 
 mane 
+defense 
 le 28 
 delete fafa
 delete all photn phahzh 
