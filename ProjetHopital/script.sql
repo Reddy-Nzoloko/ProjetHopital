@@ -10,6 +10,7 @@ statut active true
 truncate table admin 
 delete table football 
 truncute databases 
+maitre nganga 
 mane 
 defense 
 le 28 
