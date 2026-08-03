@@ -13,6 +13,7 @@ truncute databases
 maitre nganga 
 mane 
 defense 
+uuuuuu
 projet tutoe 
 le 28 
 delete fafa
