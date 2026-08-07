@@ -12,6 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 mane 
+iphone 12
 defense 
 uuuuuu
 projet tutoe 
