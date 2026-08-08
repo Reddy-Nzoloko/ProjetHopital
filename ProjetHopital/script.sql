@@ -12,6 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 mane 
+a dios grand mbongo 
 iphone 12
 defense 
 uuuuuu
