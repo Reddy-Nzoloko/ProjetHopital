@@ -13,6 +13,7 @@ truncute databases
 maitre nganga 
 mane 
 a dios grand mbongo 
+diocese 
 iphone 12
 defense 
 uuuuuu
