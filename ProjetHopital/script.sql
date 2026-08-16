@@ -12,7 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 mane 
-a dios grand mbongo 
+edite dike a dios grand mbongo 
 diocese 
 iphone 12
 defense 
