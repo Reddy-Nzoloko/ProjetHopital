@@ -12,6 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 mane 
+gitpull
 connexjon done 
 edite dike a dios grand mbongo 
 diocese 
