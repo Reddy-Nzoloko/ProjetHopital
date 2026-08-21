@@ -1,7 +1,8 @@
-﻿namespace ProjetHopital
+namespace ProjetHopital
 {
     partial class menu
     {
+gradit 
         /// <summary>
         /// Required designer variable.
         /// </summary>
