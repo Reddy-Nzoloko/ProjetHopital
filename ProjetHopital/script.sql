@@ -12,6 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 mane 
+demuto 
 dns 
 gitpull
 connexjon done 
