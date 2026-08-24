@@ -13,6 +13,7 @@ truncute databases
 maitre nganga 
 mane 
 demuto 
+el dembnyo
 dns 
 gitpull
 connexjon done 
