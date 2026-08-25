@@ -12,6 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 mane 
+codex open code 
 demuto 
 el dembnyo
 dns 
