@@ -11,7 +11,7 @@ truncate table admin
 delete table football 
 truncute databases 
 maitre nganga 
-mane 
+vita mane 
 codex open code 
 demuto 
 el dembnyo
