@@ -12,6 +12,7 @@ delete table football
 truncute databases 
 maitre nganga 
 vita mane 
+edit why 
 codex open code 
 demuto 
 el dembnyo
