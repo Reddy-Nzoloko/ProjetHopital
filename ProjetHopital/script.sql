@@ -13,6 +13,7 @@ truncute databases
 maitre nganga 
 vita mane 
 edit why 
+only one 
 codex open code 
 demuto 
 el dembnyo
