@@ -11,6 +11,7 @@ truncate table admin
 delete table football 
 truncute databases 
 maitre nganga 
+mariage roro 
 vita mane 
 edit why 
 only one 
