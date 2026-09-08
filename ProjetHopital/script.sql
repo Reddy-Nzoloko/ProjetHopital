@@ -13,6 +13,7 @@ truncate table admin
 delete table football 
 truncute databases 
 maitre nganga 
+tned pas beyoge 
 mariage roro 
 vita mane 
 edit why 
