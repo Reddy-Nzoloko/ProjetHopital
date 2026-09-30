@@ -35,6 +35,7 @@ uuuuuu
 projet tutoe 
 uml 
 le 28 
+camera 
 delete fafa
 erasmz 
 delete all photn phahzh 
