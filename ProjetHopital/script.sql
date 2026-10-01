@@ -38,6 +38,7 @@ le 28
 camera 
 delete fafa
 erasmz 
+mi espison
 delete all photn phahzh 
 insert into table salongo(nom, time) values('Courant', 01-05-2026)
 update table salongo set id= 1 
