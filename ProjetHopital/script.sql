@@ -11,6 +11,7 @@ create triggers before insert
 create treads 
 create statut 
 print: day of the match 
+of the noko 
 statut active true 
 truncate table admin 
 delete table football 
