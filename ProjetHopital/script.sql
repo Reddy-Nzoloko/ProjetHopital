@@ -10,6 +10,7 @@ create view selections donnee
 create triggers before insert 
 create treads 
 create statut 
+bebetoooo
 print: day of the match 
 of the noko 
 statut active true 
