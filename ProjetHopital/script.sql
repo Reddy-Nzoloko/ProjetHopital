@@ -11,6 +11,7 @@ create triggers before insert
 create treads 
 create statut 
 top repo 
+code 
 bebetoooo
 print: day of the match 
 of the noko 
