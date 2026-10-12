@@ -1,31 +1,5 @@
-premier wifi zone repositiry pal'd basketdole osxare poel 
-okibalopalais machine palais 
-adringa uuuuu instrumentolo top repositoey 
-newd objectif 120$ saurris pardon 
-peche mageur statlong dimanche sport 
-brayab muss encore pfo sudo vendredi edite file ifodi repositoru sabatsaboto edit fils come back to luk longue day satan un autre day salon leopart forztt is daybrupture sans systeme exploitation create database hopital 
-create table hopital; 
-create database hopital client; 
-create view selections donnee 
-create triggers before insert 
-create treads 
-create statut 
-top repo 
-code 
-bebetoooo
-print: day of the match 
-of the noko 
-statut active true 
-truncate table admin 
-delete table football 
-truncute databases 
-maitre nganga 
-tned pas beyoge 
-mariage roro 
-vita mane 
-edit why 
-only one 
-codex open code 
+le osxare poel 
+elidla
 demuto 
 el dembnyo
 dns 
