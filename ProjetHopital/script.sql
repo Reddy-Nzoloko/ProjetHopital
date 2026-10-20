@@ -4,6 +4,7 @@ demuto
 el dembnyo
 dns 
 gitpull 
+modelisatkon 
 top
 connexjon done 
 edite dike a dios grand mbongo 
