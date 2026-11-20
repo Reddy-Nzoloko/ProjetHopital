@@ -7,7 +7,7 @@ elidla
 demuto 
 julia coming home
 el dembnyo
-ah
+ahpeojer dl 
 dns 
 gitpull 
 modelisatkon 
